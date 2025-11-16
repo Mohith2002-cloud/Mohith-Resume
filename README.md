@@ -5,7 +5,7 @@ This repository contains my updated resume for aerospace, aeronautical, and spac
 ## 📄 Download Resume
 Click below to access the latest PDF version:
 
-👉 M_C_MOHITH_RESUME.pdf
+👉 RESUME MASTER.pdf
 
 ## 🔧 Highlights
 - M.Sc. Space Engineering (University of Bremen)
